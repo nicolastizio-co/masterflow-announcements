@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "id": "welcome-1",
+      "html": "<strong>Bienvenue sur MasterFlow !</strong> Patch notes, nouveautés et annonces apparaîtront ici bientôt. <a href='https://github.com/nicolastizio-co' target='_blank'>GitHub →</a>"
+    }
+  ]
+}
