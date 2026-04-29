@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.3.0",
   "items": [
     {
-      "id": "welcome-1",
-      "html": "<strong>Bienvenue sur MasterFlow !</strong> Patch notes, nouveautés et annonces apparaîtront ici bientôt. <a href='https://github.com/nicolastizio-co' target='_blank'>GitHub →</a>"
+      "id": "patch-1-3-0",
+      "html": "<strong>v1.3.0 — 28 avril 2026</strong><br><br>• <strong>Attribute Editor</strong> — Nouveau bouton expand sur les champs custom attributes pour éditer les longues valeurs dans une modale.<br>• <strong>Breakpoint Cleaner</strong> — Suppression permanente des breakpoints inutilisés (xxl, xl, large) avec sauvegarde automatique.<br>• <strong>Active Breakpoint in Red</strong> — Le breakpoint actif s'affiche en rouge comme rappel visuel.<br>• <strong>SEO Char Count</strong> — Indicateur de longueur optimale sur les champs SEO (title, description).<br><br><em>v1.2.1 — 10 mars 2026</em><br>• Correction du bug de duplication de classes au copy/paste entre projets.<br>• Amélioration de la stabilité du Workspace Search."
     }
   ]
 }
