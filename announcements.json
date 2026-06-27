@@ -1,6 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "items": [
+    {
+      "id": "patch-1-0-1",
+      "html": "<strong>v1.0.1 — June 27, 2026</strong><br><br>• <strong>CMS Assets</strong> — Added an Assets button on CMS image fields so existing Webflow Assets can be selected directly from a CMS item, including empty image fields.<br>• <strong>CMS Image Cropper</strong> — Added a Crop button for CMS image fields that already contain an image, using the same crop workflow as the Assets panel cropper.<br>• <strong>Asset workflow</strong> — Improved the fallback flow that briefly opens the Assets panel, returns to CMS, restores the selected collection/item, and reopens the picker when Webflow has not exposed assets yet.<br>• <strong>CMS settings</strong> — Reorganized the CMS tab and documentation into Layout, Utilities, Assets, and Hide categories for easier scanning."
+    },
     {
       "id": "patch-1-0-0",
       "html": "<strong>v1.0.0 — June 17, 2026</strong><br><br>• <strong>Settings & Account</strong> — New account view with license status, Pro membership age, Stripe invoice access, sign out, debug info, and a full reset for local and synced extension data.<br>• <strong>Time Tracker</strong> — Full import/export for tracked data, summaries for Today / This week / This month / This year / All time, project totals, a Today button, and better handling of the user's local timezone.<br>• <strong>Activity view</strong> — Improved GitHub-style yearly activity grid with day labels, dynamic month labels, and corrected date offsets.<br>• <strong>Golden Radius</strong> — Refined UI for the Tools panel with clearer visual hierarchy and more consistent controls.<br>• <strong>Documentation</strong> — Added Time Tracking documentation, a Golden Radius card, a cleaner Designer feature order, and a dedicated Hide section.<br>• <strong>Chrome Web Store readiness</strong> — Removed the obfuscation module and cleaned up obsolete features and docs, including Code Embed Auto Save."
