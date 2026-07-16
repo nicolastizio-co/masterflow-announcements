@@ -1,6 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "items": [
+    {
+      "id": "patch-1-0-2",
+      "html": "<strong>v1.0.2 — July 16, 2026</strong><br><br>• <strong>Class Copy/Paste</strong> — Added keyboard shortcuts to copy the complete class stack from one selected Webflow element and paste it onto another.<br>• <strong>CMS Image ALT Text</strong> — Added a compact inline ALT field below CMS images so alternative text can be viewed and edited without opening Webflow's hidden image menu.<br>• <strong>Image optimization</strong> — Expanded the Asset and CMS image tools with cropping, resizing, original-format export, and WebP compression.<br>• <strong>CMS Assets & Redirects</strong> — Improved asset picker reliability and refined bulk redirect workflows for smoother imports and management.<br>• <strong>Interface & Documentation</strong> — Refreshed feature guidance, screenshots, controls, and CMS organization, and retired the former CMS Accordion workflow.<br>• <strong>Bug fixes</strong> — Improved remote asset freshness and resolved several reliability and interface issues across CMS and asset tools."
+    },
     {
       "id": "patch-1-0-1",
       "html": "<strong>v1.0.1 — June 27, 2026</strong><br><br>• <strong>CMS Assets</strong> — Added an Assets button on CMS image fields so existing Webflow Assets can be selected directly from a CMS item, including empty image fields.<br>• <strong>CMS Image Cropper</strong> — Added a Crop button for CMS image fields that already contain an image, using the same crop workflow as the Assets panel cropper.<br>• <strong>Asset workflow</strong> — Improved the fallback flow that briefly opens the Assets panel, returns to CMS, restores the selected collection/item, and reopens the picker when Webflow has not exposed assets yet.<br>• <strong>CMS settings</strong> — Reorganized the CMS tab and documentation into Layout, Utilities, Assets, and Hide categories for easier scanning."
