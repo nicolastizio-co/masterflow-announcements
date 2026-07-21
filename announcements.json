@@ -1,6 +1,10 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "items": [
+    {
+      "id": "patch-1-0-5",
+      "html": "<strong>v1.0.5 — July 22, 2026</strong><br><br>• <strong>Pomodoro Timer</strong> — Added a project-based timer with custom hours and minutes, Start, Play, Pause and Stop controls, persistent countdown state, and an audible notification when a session finishes.<br>• <strong>Pomodoro Shortcut</strong> — Added a live countdown shortcut in the Webflow sidebar that opens Time Tracking directly and remains synchronized while running or paused.<br>• <strong>Project Filtering</strong> — Selecting a project now filters Today, This Week, This Month, This Year, All Time, the weekly chart, and the yearly activity grid, while other project activity remains visible as muted context.<br>• <strong>Activity History</strong> — Added previous and next year navigation to the GitHub-style activity calendar with a clear year indicator.<br>• <strong>Live Time Tracking</strong> — Fixed weekly chart weighting, real-time project bar scaling, live-session colors, and keeps the current Webflow project pinned in green."
+    },
     {
       "id": "patch-1-0-4",
       "html": "<strong>v1.0.4 — July 20, 2026</strong><br><br>• <strong>Settings & Support</strong> — Added a live account card, extension version, license purchase shortcut, cleaner account actions, and a support email pre-filled with readable diagnostic information.<br>• <strong>CMS Field Groups</strong> — Updated the two-column CMS layout to support Webflow's new collapsible field groups without leaving their fields visible when collapsed.<br>• <strong>CMS Multi-image</strong> — Moved the Assets button into the native image-limit bar and preserved Webflow's hover menu for editing ALT text or removing individual images.<br>• <strong>Image Optimization</strong> — Improved CMS optimizer controls and clearly disables Optimize for SVGs and unsupported document formats.<br>• <strong>Golden Radius & Reliability</strong> — Improved numeric input behavior, restored the full-width calculator layout, refreshed release notes reliably, and included additional interface fixes."
