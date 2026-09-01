@@ -1,6 +1,10 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "items": [
+    {
+      "id": "patch-1-0-6",
+      "html": "<strong>v1.0.6 — September 1, 2026</strong><br><br>• <strong>Custom Code Editor</strong> — Added a more capable Custom Code editor with syntax highlighting, search and replace, proper indentation, and smoother editing inside Webflow.<br>• <strong>Class Copy/Paste</strong> — This feature is now available to everyone, without requiring Pro.<br>• <strong>CMS Reliability</strong> — Improved CMS Collection Reorder compatibility with Webflow’s latest Designer updates, and made inline CMS ALT editing more reliable.<br>• <strong>Image Workflow</strong> — The Asset Image Optimizer now uses the original Webflow asset URL, improving the reliability of crop and export actions.<br>• <strong>Editors & Settings</strong> — Improved the URL and Attribute editors across component properties, and made project-specific settings refresh more consistently.<br>• <strong>Documentation</strong> — Refreshed feature documentation with the correct Bunny videos and Webflow screenshots, including Time Tracker, Golden Radius, and Settings.<br>• <strong>Compatibility & Fixes</strong> — Improved Chrome build compatibility and resolved several interface and reliability issues."
+    },
     {
       "id": "patch-1-0-5",
       "html": "<strong>v1.0.5 — July 22, 2026</strong><br><br>• <strong>Pomodoro Timer</strong> — Added a project-based timer with custom hours and minutes, Start, Play, Pause and Stop controls, persistent countdown state, and an audible notification when a session finishes.<br>• <strong>Pomodoro Shortcut</strong> — Added a live countdown shortcut in the Webflow sidebar that opens Time Tracking directly and remains synchronized while running or paused.<br>• <strong>Project Filtering</strong> — Selecting a project now filters Today, This Week, This Month, This Year, All Time, the weekly chart, and the yearly activity grid, while other project activity remains visible as muted context.<br>• <strong>Activity History</strong> — Added previous and next year navigation to the GitHub-style activity calendar with a clear year indicator.<br>• <strong>Live Time Tracking</strong> — Fixed weekly chart weighting, real-time project bar scaling, live-session colors, and keeps the current Webflow project pinned in green."
