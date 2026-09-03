@@ -1,6 +1,10 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "items": [
+    {
+      "id": "patch-1-0-9",
+      "html": "<strong>v1.0.9 — September 3, 2026</strong><br><br>• <strong>Onboarding &amp; Interface Improvements</strong> — Refined the first-run experience, trial messaging, and Premium feature indicators to make discovering and accessing Premium features clearer and more intuitive."
+    },
     {
       "id": "patch-1-0-8",
       "html": "<strong>v1.0.8 — September 3, 2026</strong><br><br>• <strong>Assets Import Actions</strong> — Refined the Assets header with clear, compact <strong>URL</strong> and <strong>Upload</strong> actions, making it easier to choose between importing remote images and uploading local files.<br>• <strong>Custom Code Shortcut</strong> — Added an external-link shortcut in the Custom Code panel that opens the current project's Custom Code settings in the Webflow dashboard.<br>• <strong>Lorem Ipsum</strong> — Reordered the generator controls so the action reads naturally: <strong>Add 5 Words</strong> or <strong>Add 5 Paragraphs</strong>.<br>• <strong>Documentation Media</strong> — Added a 16:9 placeholder while documentation videos load."
