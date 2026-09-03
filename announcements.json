@@ -1,6 +1,10 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "items": [
+    {
+      "id": "patch-1-0-8",
+      "html": "<strong>v1.0.8 — September 3, 2026</strong><br><br>• <strong>Assets Import Actions</strong> — Refined the Assets header with clear, compact <strong>URL</strong> and <strong>Upload</strong> actions, making it easier to choose between importing remote images and uploading local files.<br>• <strong>Custom Code Shortcut</strong> — Added an external-link shortcut in the Custom Code panel that opens the current project's Custom Code settings in the Webflow dashboard.<br>• <strong>Lorem Ipsum</strong> — Reordered the generator controls so the action reads naturally: <strong>Add 5 Words</strong> or <strong>Add 5 Paragraphs</strong>.<br>• <strong>Documentation Media</strong> — Added a 16:9 placeholder while documentation videos load."
+    },
     {
       "id": "patch-1-0-7",
       "html": "<strong>v1.0.7 — September 1, 2026</strong><br><br>• <strong>Anonymous Usage Insights</strong> — Added privacy-conscious analytics to help improve MasterFlow: feature use, enabled settings, and monthly active Webflow-site counts can now be measured.<br>• <strong>Privacy by Design</strong> — Analytics never include your email, license, install or user ID, URLs, page or clipboard content, workspace details, or raw Webflow site ID. Active-site measurement uses a monthly hashed site identifier instead.<br>• <strong>Transparent Controls</strong> — Tracking is limited to an internal feature allowlist, has no session replay, heatmaps, autocapture, pageviews, or user profiling, and is processed through PostHog's EU endpoint.<br>• <strong>Release Reliability</strong> — Corrected the extension release version to v1.0.7 and refreshed the supporting analytics and privacy documentation."
