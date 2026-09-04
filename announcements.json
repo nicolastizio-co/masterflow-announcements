@@ -1,6 +1,10 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "items": [
+    {
+      "id": "patch-1-0-10",
+      "html": "<strong>v1.0.10 — September 4, 2026</strong><br><br>• <strong>Breakpoint Shortcuts</strong> — When <strong>Hide Larger Breakpoints</strong> is enabled, the <strong>1–4</strong> shortcuts now follow the visible breakpoint order: Desktop, Tablet, Mobile Landscape, and Mobile Portrait. French Mac keyboards are supported with <strong>⇧1–⇧4</strong>."
+    },
     {
       "id": "patch-1-0-9",
       "html": "<strong>v1.0.9 — September 3, 2026</strong><br><br>• <strong>Onboarding &amp; Interface Improvements</strong> — Refined the first-run experience, trial messaging, and Premium feature indicators to make discovering and accessing Premium features clearer and more intuitive."
