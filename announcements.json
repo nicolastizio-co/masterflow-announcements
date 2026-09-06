@@ -1,6 +1,10 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "items": [
+    {
+      "id": "patch-1-0-12",
+      "html": "<strong>v1.0.12 — September 7, 2026</strong><br><br>• <strong>Resizable Style Selectors</strong> — Resize the Style selectors panel from its right edge.<br>• <strong>Resizable Pages Panel</strong> — Resize the Pages panel from its right edge.<br>• <strong>Resizable Components Panel</strong> — Resize the Components panel from its right edge.<br>• <strong>Resizable Assets Panel</strong> — Resize the Assets panel from its right edge."
+    },
     {
       "id": "patch-1-0-11",
       "html": "<strong>v1.0.11 — September 6, 2026</strong><br><br>• <strong>Breakpoint Cleaner</strong> — View affected classes and selectors in a table showing which breakpoints contain explicitly defined styles. Sort alphabetically or by breakpoint, click again to reverse the order, and filter results with the built-in search. A new shortcut opens the class directly in Webflow's Style selectors panel, with its name already entered in the search field.<br>• <strong>Project Custom Code</strong> — Insert a &lt;style&gt; block into Head Code or a &lt;script&gt; block before the closing body tag with one click, just like in page-level Custom Code. Compact buttons keep the workspace layout unchanged.<br>• <strong>Feature Documentation</strong> — A new “i” icon opens the relevant documentation from image and redirect imports, attribute, CSS property and URL editors, image optimization tools, and CMS tools. The active dialog closes before the documentation opens. From the CMS, MasterFlow returns to the Designer first to prevent overlapping panels.<br>• <strong>Prevent Class Duplication on Paste</strong> — This feature is now enabled by default. Previously saved preferences remain unchanged.<br>• <strong>Hide Larger Breakpoints</strong> — Fixed an issue where larger breakpoints could remain hidden when the Designer loaded, even with the feature disabled. Project-specific settings are now applied more reliably during startup.<br>• <strong>Time Tracker</strong> — Fixed a project identification issue that could display the same site twice. The active project, tracking history, and Pomodoro now share consistent identification. Previously recorded time is preserved."
