@@ -1,6 +1,10 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "items": [
+    {
+      "id": "patch-1-0-15",
+      "html": "<strong>v1.0.15 — September 9, 2026</strong><br><br>• <strong>Enhance Design &amp; CMS</strong> — Make the Design and CMS buttons wider and evenly sized for a more balanced top bar. This new free feature is enabled by default and appears before Enhance Comments &amp; Share in Designer settings.<br>• <strong>Custom Code — Search &amp; Replace</strong> — Fixed the font in the search and replace bar so its fields and buttons match the Webflow interface."
+    },
     {
       "id": "patch-1-0-14",
       "html": "<strong>v1.0.14 — September 9, 2026</strong><br><br>• <strong>Schema Validation</strong> — Choose Google Rich Results or Schema.org from one Test Schema button. MasterFlow remembers your preferred validator, preserves code formatting, and starts the test automatically.<br>• <strong>Keyboard Shortcuts</strong> — Save page settings with Cmd/Ctrl + S, duplicate a page with Cmd/Ctrl + D, open the top pages menu with T, and toggle CSS Preview with Option/Alt + K. In the CMS, use Cmd/Ctrl + S for the native save or publish action, Cmd/Ctrl + D to duplicate an item, and Enter/Escape in supported confirmation dialogs. Each shortcut has its own toggle under Keyboard shortcuts.<br>• <strong>Resize Code Editors</strong> — Resize the schema, head and body code editors in static page and CMS template settings. Drag the bottom handle to adjust the height, or double-click to restore the original size.<br>• <strong>Persist Last CMS Collection</strong> — Return to your last CMS collection or Ecommerce section when reopening the CMS. Your selection is remembered separately for each project, without an expiration date.<br>• <strong>Auto Download CSV Export</strong> — Start a CMS export as usual. MasterFlow automatically downloads the file when Webflow displays the Download CSV action, without opening an extra tab.<br>• <strong>Hide RSS Feed Settings</strong> — Hide the entire RSS feed settings section in page settings, including its header and controls, without changing your published feed.<br>• <strong>Spacebar REM Conversion — Improvement</strong> — The /16rem conversion now supports Shift, Ctrl and Alt modifiers so it can work with Webflow’s grouped spacing controls."
@@ -62,5 +66,5 @@
       "html": "<strong>v1.0.0 — June 17, 2026</strong><br><br>• <strong>Settings & Account</strong> — New account view with license status, Pro membership age, Stripe invoice access, sign out, debug info, and a full reset for local and synced extension data.<br>• <strong>Time Tracker</strong> — Full import/export for tracked data, summaries for Today / This week / This month / This year / All time, project totals, a Today button, and better handling of the user's local timezone.<br>• <strong>Activity view</strong> — Improved GitHub-style yearly activity grid with day labels, dynamic month labels, and corrected date offsets.<br>• <strong>Golden Radius</strong> — Refined UI for the Tools panel with clearer visual hierarchy and more consistent controls.<br>• <strong>Documentation</strong> — Added Time Tracking documentation, a Golden Radius card, a cleaner Designer feature order, and a dedicated Hide section.<br>• <strong>Chrome Web Store readiness</strong> — Removed the obfuscation module and cleaned up obsolete features and docs, including Code Embed Auto Save."
     }
   ],
-  "publishedVersion": "1.0.14"
+  "publishedVersion": "1.0.15"
 }
