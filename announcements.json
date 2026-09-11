@@ -1,6 +1,10 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "items": [
+    {
+      "id": "patch-1-0-16",
+      "html": "<strong>v1.0.16 — September 11, 2026</strong><br><br><strong>CMS Navigator</strong><br>A complete keyboard workflow to search, browse and open collections and items, then return without losing your place.<br><br>• <strong>Search &amp; Open</strong> — Start typing when you enter the CMS. Filter collections regardless of case or accents, then press Enter to open one and focus its native item search. Single results are selected automatically while searching.<br>• <strong>Navigate Freely</strong> — Use ↑/↓ and Enter with or without focusing the item search. Navigation follows filters and sorting, handles long lists and pagination, and wraps at both ends. Switch between columns with the pointer while keeping Webflow’s native mouse behavior.<br>• <strong>Go Back &amp; Resume</strong> — Use Backspace (⌫) to return from an item to its list, then to collections. Your search and selection are restored, along with the search focus and cursor position when previously active. Text fields keep normal deletion behavior.<br>• <strong>Native Look &amp; Feel</strong> — The collection search matches Webflow’s styling, with a clear button aligned to the right. Press Escape or click × to clear it."
+    },
     {
       "id": "patch-1-0-15",
       "html": "<strong>v1.0.15 — September 9, 2026</strong><br><br>• <strong>Enhance Design &amp; CMS</strong> — Make the Design and CMS buttons wider and evenly sized for a more balanced top bar. This new free feature is enabled by default and appears before Enhance Comments &amp; Share in Designer settings.<br>• <strong>Custom Code — Search &amp; Replace</strong> — Fixed the font in the search and replace bar so its fields and buttons match the Webflow interface."
@@ -66,5 +70,5 @@
       "html": "<strong>v1.0.0 — June 17, 2026</strong><br><br>• <strong>Settings & Account</strong> — New account view with license status, Pro membership age, Stripe invoice access, sign out, debug info, and a full reset for local and synced extension data.<br>• <strong>Time Tracker</strong> — Full import/export for tracked data, summaries for Today / This week / This month / This year / All time, project totals, a Today button, and better handling of the user's local timezone.<br>• <strong>Activity view</strong> — Improved GitHub-style yearly activity grid with day labels, dynamic month labels, and corrected date offsets.<br>• <strong>Golden Radius</strong> — Refined UI for the Tools panel with clearer visual hierarchy and more consistent controls.<br>• <strong>Documentation</strong> — Added Time Tracking documentation, a Golden Radius card, a cleaner Designer feature order, and a dedicated Hide section.<br>• <strong>Chrome Web Store readiness</strong> — Removed the obfuscation module and cleaned up obsolete features and docs, including Code Embed Auto Save."
     }
   ],
-  "publishedVersion": "1.0.15"
+  "publishedVersion": "1.0.16"
 }
