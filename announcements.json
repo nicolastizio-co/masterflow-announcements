@@ -1,6 +1,10 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "items": [
+    {
+      "id": "patch-1-0-20",
+      "html": "<strong>v1.0.20 — September 17, 2026</strong><br><br>• <strong>Staging — Background Reload</strong> — Reload your staging tab after publishing without leaving the Designer. Turn off the secondary “Auto-open staging tab” option to refresh an existing tab in the background.<br>• <strong>Staging — More Control</strong> — Keep automatic switching enabled to open or focus staging after publishing. Both options are enabled by default for new configurations, while existing saved preferences are preserved. Publish actions now respect project-specific settings.<br>• <strong>Page Settings Shortcut</strong> — Updated the toolbar button to use Webflow’s native Shift + S shortcut for the current page or CMS template. Added a Webflow-style tooltip showing the keyboard shortcut.<br>• <strong>Documentation — Go to Feature</strong> — Jump directly from a documentation card to its corresponding feature or settings section. The destination scrolls into view and is briefly highlighted. Also fixed the Link Tooltip Viewer documentation link."
+    },
     {
       "id": "patch-1-0-19",
       "html": "<strong>v1.0.19 — September 16, 2026</strong><br><br>• <strong>SEO Character Count &amp; Length Indicator</strong> — Restored character counts and length indicators on static pages after Webflow’s latest interface changes. CMS template fields containing only plain text are now supported too.<br>• <strong>Dynamic CMS Fields</strong> — Character counts and length indicators are hidden whenever a field contains a CMS variable, including mixed text and variables. They automatically return when the field contains only plain text.<br>• <strong>Open Graph Counters</strong> — Fields set to reuse the SEO title or description now count the inherited text correctly.<br>• <strong>Panel Resize Borders</strong> — The blue resize borders on Pages, Components, Assets, and Style selectors now match the thickness of the right sidebar’s resize border."
@@ -82,5 +86,5 @@
       "html": "<strong>v1.0.0 — June 17, 2026</strong><br><br>• <strong>Settings & Account</strong> — New account view with license status, Pro membership age, Stripe invoice access, sign out, debug info, and a full reset for local and synced extension data.<br>• <strong>Time Tracker</strong> — Full import/export for tracked data, summaries for Today / This week / This month / This year / All time, project totals, a Today button, and better handling of the user's local timezone.<br>• <strong>Activity view</strong> — Improved GitHub-style yearly activity grid with day labels, dynamic month labels, and corrected date offsets.<br>• <strong>Golden Radius</strong> — Refined UI for the Tools panel with clearer visual hierarchy and more consistent controls.<br>• <strong>Documentation</strong> — Added Time Tracking documentation, a Golden Radius card, a cleaner Designer feature order, and a dedicated Hide section.<br>• <strong>Chrome Web Store readiness</strong> — Removed the obfuscation module and cleaned up obsolete features and docs, including Code Embed Auto Save."
     }
   ],
-  "publishedVersion": "1.0.19"
+  "publishedVersion": "1.0.20"
 }
