@@ -1,6 +1,10 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "items": [
+    {
+      "id": "patch-1-0-22",
+      "html": "<strong>v1.0.22 — September 24, 2026</strong><br><br>• <strong>CMS Navigator — Native Search</strong> — Updated CMS Navigator to use Webflow’s native collection search. Browse results with ↑/↓ and open a collection with Enter, without adding a second search field or changing Webflow’s filtering.<br>• <strong>Publish Progress in Browser Tab</strong> — Follow the current publishing step directly in your browser tab, from preparation to CDN deployment, with animated progress dots. After publishing, the “Published!” confirmation stays visible for 10 seconds before the original title and favicon return, including in background tabs."
+    },
     {
       "id": "patch-1-0-21",
       "html": "<strong>v1.0.21 — September 18, 2026</strong><br><br>• <strong>Image Editor — Redesigned</strong> — A larger, responsive editor in CMS and Assets, with the preview above organized controls. Choose preset or custom crop ratios, resize by maximum width, height, or longest side, and adjust magnetic snapping strength with an integrated slider. Rename files and edit ALT text directly, with “Use Slug” and “Use Name” shortcuts in the CMS. The “Optimize” button is now “Edit.”<br>• <strong>Original Format</strong> — WebP and AVIF images keep their original format, with conversion options disabled.<br>• <strong>CMS Image Clipboard</strong> — Copy an image’s link or the image itself using two new icons beneath the preview arrow. Image copies use PNG for pasting, with Webflow-style green success notifications."
@@ -90,5 +94,5 @@
       "html": "<strong>v1.0.0 — June 17, 2026</strong><br><br>• <strong>Settings & Account</strong> — New account view with license status, Pro membership age, Stripe invoice access, sign out, debug info, and a full reset for local and synced extension data.<br>• <strong>Time Tracker</strong> — Full import/export for tracked data, summaries for Today / This week / This month / This year / All time, project totals, a Today button, and better handling of the user's local timezone.<br>• <strong>Activity view</strong> — Improved GitHub-style yearly activity grid with day labels, dynamic month labels, and corrected date offsets.<br>• <strong>Golden Radius</strong> — Refined UI for the Tools panel with clearer visual hierarchy and more consistent controls.<br>• <strong>Documentation</strong> — Added Time Tracking documentation, a Golden Radius card, a cleaner Designer feature order, and a dedicated Hide section.<br>• <strong>Chrome Web Store readiness</strong> — Removed the obfuscation module and cleaned up obsolete features and docs, including Code Embed Auto Save."
     }
   ],
-  "publishedVersion": "1.0.21"
+  "publishedVersion": "1.0.22"
 }
