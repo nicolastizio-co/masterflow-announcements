@@ -1,6 +1,10 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "items": [
+    {
+      "id": "patch-1-0-23",
+      "html": "<strong>v1.0.23 — September 29, 2026</strong><br><br>• <strong>Static Page Staging URL Copy</strong> — See and copy a static page’s .webflow.io URL directly below its custom-domain URL in Page Settings.<br>• <strong>Original Image Dimensions</strong> — Fill an image’s Width and Height fields from its original pixel dimensions in one click.<br>• <strong>ALT from Asset Name</strong> — Set an asset’s ALT text from its file name, with dashes and underscores converted to spaces.<br>• <strong>Copy SVG Code</strong> — Copy an SVG asset’s markup directly from Asset Settings.<br>• <strong>CMS Column Pin Search</strong> — Find columns in the Pin menu above a collection’s item table. Use ↑/↓ to navigate and Enter to toggle a column while the search field stays focused.<br>• <strong>Feature Documentation</strong> — New screenshots for these workflows and CMS Image Clipboard, Free or Premium labels on documentation cards, and automatic New labels for features introduced in the latest three versions."
+    },
     {
       "id": "patch-1-0-22",
       "html": "<strong>v1.0.22 — September 24, 2026</strong><br><br>• <strong>CMS Navigator — Native Search</strong> — Updated CMS Navigator to use Webflow’s native collection search. Browse results with ↑/↓ and open a collection with Enter, without adding a second search field or changing Webflow’s filtering.<br>• <strong>Publish Progress in Browser Tab</strong> — Follow the current publishing step directly in your browser tab, from preparation to CDN deployment, with animated progress dots. After publishing, the “Published!” confirmation stays visible for 10 seconds before the original title and favicon return, including in background tabs."
@@ -94,5 +98,5 @@
       "html": "<strong>v1.0.0 — June 17, 2026</strong><br><br>• <strong>Settings & Account</strong> — New account view with license status, Pro membership age, Stripe invoice access, sign out, debug info, and a full reset for local and synced extension data.<br>• <strong>Time Tracker</strong> — Full import/export for tracked data, summaries for Today / This week / This month / This year / All time, project totals, a Today button, and better handling of the user's local timezone.<br>• <strong>Activity view</strong> — Improved GitHub-style yearly activity grid with day labels, dynamic month labels, and corrected date offsets.<br>• <strong>Golden Radius</strong> — Refined UI for the Tools panel with clearer visual hierarchy and more consistent controls.<br>• <strong>Documentation</strong> — Added Time Tracking documentation, a Golden Radius card, a cleaner Designer feature order, and a dedicated Hide section.<br>• <strong>Chrome Web Store readiness</strong> — Removed the obfuscation module and cleaned up obsolete features and docs, including Code Embed Auto Save."
     }
   ],
-  "publishedVersion": "1.0.22"
+  "publishedVersion": "1.0.23"
 }
