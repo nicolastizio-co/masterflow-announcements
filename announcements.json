@@ -1,6 +1,10 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "items": [
+    {
+      "id": "patch-1-0-25",
+      "html": "<strong>v1.0.25 — October 7, 2026</strong><br><br>• <strong>Cross-site copy and paste fix</strong> — MasterFlow now reuses classes already present in the destination Webflow site when pasting sections, including heading styles and buttons, instead of creating numbered duplicates. Copy and paste of new classes and variables continues to work."
+    },
     {
       "id": "patch-1-0-24",
       "html": "<strong>v1.0.24 — October 6, 2026</strong><br><br>• <strong>CMS Column Enhancements (Premium)</strong> — Reorder columns by dragging the handle beside their name, resize them with the header dividers, or double-click to fit their content. Hold Shift to auto-fit all visible columns. The first column stays fixed while you scroll horizontally, with headers and rows aligned. Your preferred order is saved for each site and collection across browser restarts. Use the reset button beside Pin to restore the original order and widths. Fitted widths apply to newly loaded rows; repeat auto-fit when longer values appear.<br>• <strong>File Menu Site Links (Premium)</strong> — Open SEO, Forms, 301 redirects, and Site usage for the current site directly from the Designer file menu. Shortcuts open a new tab, with 301 redirects taking you straight to the redirects section.<br>• <strong>Breakpoint Cleaner — Precise Removal (Premium)</strong> — Remove entire larger breakpoints, all larger-breakpoint styles for a class, all class styles in one breakpoint, or individual class and breakpoint combinations. Whole-breakpoint removal includes element styles, while selective removal keeps the class and breakpoint. Webflow creates a snapshot before removal.<br>• <strong>Bulk Import — Fix</strong> — Fixed an issue where the Bulk Import button only appeared after reloading the page when navigating to Publishing from another dashboard page.<br>• <strong>Premium Feature Demos</strong> — Discover supported Premium features through dedicated dialogs with a feature description and video or image. Videos restart from the beginning whenever the dialog opens, and the responsive layout keeps the full preview visible.<br>• <strong>Improved Feature Onboarding</strong> — Refined the first-use experience for Premium features with dedicated introductions, visual demonstrations, and clear guidance to help users understand each feature and get started."
@@ -102,5 +106,5 @@
       "html": "<strong>v1.0.0 — June 17, 2026</strong><br><br>• <strong>Settings & Account</strong> — New account view with license status, Pro membership age, Stripe invoice access, sign out, debug info, and a full reset for local and synced extension data.<br>• <strong>Time Tracker</strong> — Full import/export for tracked data, summaries for Today / This week / This month / This year / All time, project totals, a Today button, and better handling of the user's local timezone.<br>• <strong>Activity view</strong> — Improved GitHub-style yearly activity grid with day labels, dynamic month labels, and corrected date offsets.<br>• <strong>Golden Radius</strong> — Refined UI for the Tools panel with clearer visual hierarchy and more consistent controls.<br>• <strong>Documentation</strong> — Added Time Tracking documentation, a Golden Radius card, a cleaner Designer feature order, and a dedicated Hide section.<br>• <strong>Chrome Web Store readiness</strong> — Removed the obfuscation module and cleaned up obsolete features and docs, including Code Embed Auto Save."
     }
   ],
-  "publishedVersion": "1.0.24"
+  "publishedVersion": "1.0.25"
 }
