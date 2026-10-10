@@ -1,6 +1,10 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "items": [
+    {
+      "id": "patch-1-0-26",
+      "html": "<strong>v1.0.26 — October 11, 2026</strong><br><br>• <strong>More Spacing Presets (Free)</strong> — Add extra values to Webflow’s margin and padding menus for PX, REM, %, CH, VW, VH, SVW, SVH, and EM. Click the + button to edit, add, remove, or drag your own preset buttons in a Webflow-style preview. Each unit’s setup is saved across your projects, and the editor opens focused on the unit you were using.<br>• <strong>Cleaner Site Settings (Free)</strong> — Hide the Google Fonts and Adobe Fonts sections in Fonts, and hide Custom SSL certificates or Private Staging in Publishing. Each option is enabled by default under Workspace → Hide and affects only the Webflow dashboard interface; existing fonts, certificates, and publishing settings are left intact.<br>• <strong>Optimize Assets — Update (Premium)</strong> — The existing image editor is now accessible from the floating Image settings panel and the right sidebar in the Designer. Its Optimize Image button sits between Replace Image and Add original dimensions; on the Free plan, it remains visible and opens the Premium feature preview. Several image editor bugs have also been fixed.<br>• <strong>Resizable Designer Panels — Update (Premium)</strong> — Double-click the blue resize line to restore the default width of Style selectors, Pages, Components, Assets, or the right sidebar. The saved width for that panel is cleared, so the default is kept when you reopen the Designer."
+    },
     {
       "id": "patch-1-0-25",
       "html": "<strong>v1.0.25 — October 7, 2026</strong><br><br>• <strong>Cross-site copy and paste fix</strong> — MasterFlow now reuses classes already present in the destination Webflow site when pasting sections, including heading styles and buttons, instead of creating numbered duplicates. Copy and paste of new classes and variables continues to work."
@@ -106,5 +110,5 @@
       "html": "<strong>v1.0.0 — June 17, 2026</strong><br><br>• <strong>Settings & Account</strong> — New account view with license status, Pro membership age, Stripe invoice access, sign out, debug info, and a full reset for local and synced extension data.<br>• <strong>Time Tracker</strong> — Full import/export for tracked data, summaries for Today / This week / This month / This year / All time, project totals, a Today button, and better handling of the user's local timezone.<br>• <strong>Activity view</strong> — Improved GitHub-style yearly activity grid with day labels, dynamic month labels, and corrected date offsets.<br>• <strong>Golden Radius</strong> — Refined UI for the Tools panel with clearer visual hierarchy and more consistent controls.<br>• <strong>Documentation</strong> — Added Time Tracking documentation, a Golden Radius card, a cleaner Designer feature order, and a dedicated Hide section.<br>• <strong>Chrome Web Store readiness</strong> — Removed the obfuscation module and cleaned up obsolete features and docs, including Code Embed Auto Save."
     }
   ],
-  "publishedVersion": "1.0.25"
+  "publishedVersion": "1.0.26"
 }
